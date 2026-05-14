@@ -1,0 +1,18 @@
+# Jupyter / Anaconda
+.ipynb_checkpoints/
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+conda-env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
