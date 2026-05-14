@@ -39,7 +39,7 @@ The dataset used in this project is the Intel Image Classification dataset.
 Download the dataset from:
 
 ```text
-https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data
+[Intel Image Classification Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data)
 ```
 
 The dataset is not included in this repository because it is large.
