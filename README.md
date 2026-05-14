@@ -208,7 +208,7 @@ best_model.pt
 
 ## Conclusion
 
-This project demonstrates a complete CNN image classification workflow using PyTorch. The model achieved a test accuracy of 87.20%, which is a decent result for an educational custom CNN project.
+This project demonstrates a complete CNN image classification workflow using PyTorch. The model achieved a test accuracy of 87.20%.
 
 The project also shows the importance of:
 
